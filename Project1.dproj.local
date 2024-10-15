@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.494,=C:\Users\vlodi\OneDrive\Рабочий стол\Базы данных lab2\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,C:\Users\vlodi\OneDrive\Рабочий стол\Базы данных lab2\Unit1.dfm=C:\Users\vlodi\OneDrive\Рабочий стол\delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,=C:\Users\vlodi\OneDrive\Рабочий стол\Базы данных lab2\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.339,=C:\Users\vlodi\OneDrive\Рабочий стол\Базы данных lab2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,=C:\Users\vlodi\OneDrive\Рабочий стол\База данных\Базы данных lab2\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,=C:\Users\vlodi\OneDrive\Рабочий стол\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,=C:\university\Semester_5\Databases\Project_finished\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,C:\Users\vlodi\OneDrive\Рабочий стол\Базы данных lab2\Unit1.pas=C:\Users\vlodi\OneDrive\Рабочий стол\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.884,C:\Users\vlodi\OneDrive\Рабочий стол\Базы данных lab2\Project1.dproj=C:\Users\vlodi\OneDrive\Рабочий стол\delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,=C:\Users\vlodi\OneDrive\Рабочий стол\Базы данных lab2\Unit3.pas</Transaction>
+    <Transaction>2023.09.14 19:16:47.194,=C:\university\Project_Kurs\Unit8.pas</Transaction>
+    <Transaction>2023.09.14 19:24:58.820,=C:\university\Project_Kurs\Unit9.pas</Transaction>
+    <Transaction>2023.09.14 19:25:12.259,C:\university\Project_Kurs\Unit8.pas=</Transaction>
+    <Transaction>2023.09.14 19:25:24.563,=C:\university\Project_Kurs\Unit8.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
